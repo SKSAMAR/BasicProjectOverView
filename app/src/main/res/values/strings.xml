@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PulseSolutionPreviewInterview</string>
+    <string name="base_url">https://mobileinterview.azurewebsites.net/api/</string>
+    <string name="no_image">https://media.istockphoto.com/id/1357365823/vector/default-image-icon-vector-missing-picture-page-for-website-design-or-mobile-app-no-photo.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=PM_optEhHBTZkuJQLlCjLz-v3zzxp-1mpNQZsdjrbns=</string>
+</resources>
